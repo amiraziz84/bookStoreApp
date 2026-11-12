@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name": "story book",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "price":0,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":2,
+        "name": "sports book",
+        "title": "Moneyball: The Art of Winning an Unfair Game",
+        "price":20,
+        "category": "paid",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":3,
+        "name": "Mystery book",
+        "title": "And Then There Were None.",
+        "price":30,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":4,
+        "name": "Self-Help Book",
+        "title": "An Easy & Proven Way to Build Good Habits",
+        "price":40,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":5,
+        "name": "Sci-Fi Book",
+        "title": "Dune (Chronicles of Dune, Book 1)",
+        "price":50,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":6,
+        "name": "Fantasy Book",
+        "title": "The Hobbit, or There and Back Again",
+        "price":60,
+        "category": "paid",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":7,
+        "name": "Biography Book",
+        "title": "The Diary of a Young Girl",
+        "price":70,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":8,
+        "name": "Romance Book",
+        "title": "Pride and Prejudice",
+        "price":80,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":9,
+        "name": "Business Book",
+        "title": "Rich Dad Poor Dad",
+        "price":90,
+        "category": "Free",
+        "image":"/images/book1.png"
+    },
+    {
+        "id":10,
+        "name": "Kids Book",
+        "title": "The Little Prince",
+        "price":100,
+        "category": "Free",
+        "image":"/images/book1.png"
+    }
+]
